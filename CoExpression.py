@@ -1,0 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Aug 26 17:17:33 2019
+
+@author: Shima Abdollahi
+"""
+
+def getGroup(factor): #get list of genes who expressed against factor
+    #??????????????????????
+    return []
